@@ -63,3 +63,11 @@ int main()
     printf("Negative: %d\n",negative);
     return 0;
 }
+
+
+
+
+
+
+
+// question link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C
