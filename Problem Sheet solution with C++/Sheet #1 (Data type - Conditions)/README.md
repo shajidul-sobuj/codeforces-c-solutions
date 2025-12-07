@@ -19,7 +19,6 @@ Ei repository-te ami Codeforces-er **Sheet #1 (Data type - Conditions)** er shob
 ```
 / (root)
 ├─ README.md
-├─ .gitignore
 ├─ LICENSE
 ├─ src/
 │  ├─ A_Say_Hello_With_CPP.cpp
@@ -120,11 +119,6 @@ If you find a bug or a better implementation, feel free to open a PR. Please fol
 2. Keep the code style consistent.
 3. Add a small comment at the top with your name and what you changed.
 
----
-
-## 📜 License
-
-This repository is released under the MIT License — include an actual `LICENSE` file if you want to publish.
 
 ---
 
