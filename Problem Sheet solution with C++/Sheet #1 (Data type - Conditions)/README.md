@@ -18,9 +18,7 @@ Ei repository-te ami Codeforces-er **Sheet #1 (Data type - Conditions)** er shob
 
 ```
 / (root)
-├─ README.md
-├─ LICENSE
-├─ src/
+├─ Solutions/
 │  ├─ A_Say_Hello_With_CPP.cpp
 │  ├─ B_Basic_Data_Types.cpp
 │  ├─ C_Simple_Calculator.cpp
@@ -47,7 +45,8 @@ Ei repository-te ami Codeforces-er **Sheet #1 (Data type - Conditions)** er shob
 │  ├─ X_Two_intervals.cpp
 │  ├─ Y_The_last_2_digits.cpp
 │  └─ Z_Hard_Compare.cpp
-└─ README.md
+├─ README.md
+└─ LICENSE
 ```
 
 *File names follow the pattern:* `Letter_Title.cpp` so it's obvious which problem each file corresponds to.
